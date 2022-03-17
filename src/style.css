@@ -37,8 +37,10 @@ margin: 30px auto;
 
 .weather-app {
 padding: 30px;
-border: 1px solid #0f82a5;
+border: 1px solid #065b75;
 border-radius: 10px;
+background: rgb(94,147,181);
+background: linear-gradient(90deg, rgba(94,147,181,0.804359243697479) 16%, rgba(111,172,214,1) 51%, rgba(24,121,195,1) 100%);
 }
 
 .overview {
